@@ -78,6 +78,10 @@ header a {
 
 /* SECTIONS */
 
+section {
+    margin-bottom: 8px;
+}
+
 section h2 {
     font-family: 'Bellota', cursive;
     font-weight: bold;
